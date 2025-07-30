@@ -24,5 +24,4 @@ This project uses OpenAI's CLIP model to match images with the most suitable cap
 
 ---
 
-Want to use this for other types of images? Just replace the caption list!
 
